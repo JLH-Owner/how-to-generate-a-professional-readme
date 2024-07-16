@@ -1,0 +1,24 @@
+{
+  "name": "node.js-professional-readme-generator",
+  "version": "1.0.0",
+  "description": "Generating a professional README using Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLH-Owner/node.js-professional-readme-generator.git"
+  },
+  "keywords": [
+    "node.js",
+    "readme",
+    "generator"
+  ],
+  "author": "Stacy Herbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLH-Owner/node.js-professional-readme-generator/issues"
+  },
+  "homepage": "https://github.com/JLH-Owner/node.js-professional-readme-generator#readme"
+}
