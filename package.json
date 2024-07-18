@@ -1,24 +1,28 @@
 {
-  "name": "node.js-professional-readme-generator",
+  "name": "how-to-generate-a-professional-readme",
   "version": "1.0.0",
-  "description": "Generating a professional README using Node.js.",
+  "description": "generate a professional readme using node.js",
   "main": "index.js",
   "scripts": {
     "test": "npm"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JLH-Owner/node.js-professional-readme-generator.git"
+    "url": "git+https://github.com/JLH-Owner/how-to-generate-a-professional-readme.git"
   },
   "keywords": [
-    "node.js",
+    "generate",
     "readme",
-    "generator"
+    "node.js"
   ],
   "author": "Stacy Herbert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JLH-Owner/node.js-professional-readme-generator/issues"
+    "url": "https://github.com/JLH-Owner/how-to-generate-a-professional-readme/issues"
   },
-  "homepage": "https://github.com/JLH-Owner/node.js-professional-readme-generator#readme"
+  "homepage": "https://github.com/JLH-Owner/how-to-generate-a-professional-readme#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  }
 }
