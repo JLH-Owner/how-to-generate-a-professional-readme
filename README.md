@@ -34,3 +34,12 @@ Stacy Herbert
 
 MIT
 
+# LINKS
+
+## Github Repository: 
+https://github.com/JLH-Owner/how-to-generate-a-professional-readme
+
+## Watch the Screen Recording: 
+<iframe src="https://drive.google.com/file/d/1WHlEFZm-Ev9ZlQttrV7q1CLjtCzfdkEN/preview" width="640" height="480"></iframe>
+
+
